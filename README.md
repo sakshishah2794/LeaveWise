@@ -59,39 +59,21 @@ Application Screens:
 8) Notifications Screen
 9) Profile / Settings Screen
 
-🔄 UI Flow
-Splash Screen
-      ↓
-Login Screen
-      ↓
-Semester Setup
-      ↓
-Timetable Upload
-      ↓
-Dashboard
-  ↓        ↓        ↓
-Plan     Actual   Notifications
-Attendance Attendance
-      ↓
-Profile / Settings
-      ↓
-Logout
-
 Technologies Used:
 
-Figma (Wireframing & UI Design)
-Android Studio (Application Development)
-Java / Kotlin (App Logic)
-XML / Jetpack Compose (UI Implementation)
+- Figma (Wireframing & UI Design)
+- Android Studio (Application Development)
+- Java / Kotlin (App Logic)
+- XML / Jetpack Compose (UI Implementation)
 
 
 Future Enhancements:
 
-Integration with college ERP systems
-AI-based attendance prediction
-Cloud data synchronization
-Multi-device support
-Reminder notifications before lectures
+1) Integration with college ERP systems
+2) AI-based attendance prediction
+3) Cloud data synchronization
+4) Multi-device support
+5) Reminder notifications before lectures
 
 👩‍💻 Author~ Sakshi Shah
 
